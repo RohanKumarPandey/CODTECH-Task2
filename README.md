@@ -8,10 +8,10 @@ Domain: C++
 
 Duration: September 05 to October 05, 2024
 
-Mentor: SRAVANI GOUNI
 
 
-Overview:
+Overview:![Screenshot 2024-10-02 170102](https://github.com/user-attachments/assets/23cb866a-2c95-488f-964b-fbcc3da9d6c4)
+
 
 The goal is to implement core data structures such as linked lists, trees, and graphs using C++. These data structures will be developed to handle standard operations like insertion, deletion, traversal, and searching, providing a foundation for various algorithmic solutions and optimizations in competitive programming, software development, or systems design.
 
